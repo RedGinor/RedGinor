@@ -1,6 +1,6 @@
 [gmail]: mailto:RedGinor@gmail.com
 
-<h2>Bip Bip Bop! Welocme to my peronal page</h2>
+<h2>Bip Bip Bop! Welcome to my personal page</h2>
 
 [<img align="left" alt="RedGinor | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
