@@ -1,9 +1,7 @@
 [gmail]: mailto:RedGinor@gmail.com
-[github]: https://www.github.com/RedGinor
 
 <h2>Bip Bip Bop! Welocme to my peronal page</h2>
 
-[<img align="left" alt="RedGinor | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="RedGinor | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 </br>
