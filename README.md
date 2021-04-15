@@ -17,7 +17,7 @@
 - 🔐 Furthermore, I am contributing to the development of the vocal assistant on the E-OS,
         a privacy-enabled OS from the [e.fundation](https://e.foundation/)
 
-**Here's a glimpse of one of my projects !**
+**Here's a glimpse of my projects !**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedGinor&repo=Cib&theme=radical&hide_border=false)](https://github.com/RedGinor/Cib)
 
