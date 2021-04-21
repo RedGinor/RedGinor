@@ -19,7 +19,8 @@
 
 **Here's a glimpse of my projects !**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedGinor&repo=Cib&theme=radical&hide_border=false)](https://github.com/RedGinor/Cib)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedGinor&repo=Libib&theme=radical&hide_border=false)](https://github.com/RedGinor/Libib)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedGinor&repo=Liboli&theme=radical&hide_border=false)](https://github.com/RedGinor/Liboli)
 
 </br>
 </br>
