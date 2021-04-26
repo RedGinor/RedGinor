@@ -15,7 +15,7 @@
 - 🎫 Currently studying at [@Epitech](https://www.epitech.eu/) I am a member of [@PoCInnovation](https://github.com/PoCInnovation)
 - 💻 I'm learning C, C++, Python, Java and JS
 - 🔐 Furthermore, I am contributing to the development of the vocal assistant on the E-OS,
-        a privacy-enabled OS from the [e.fundation](https://e.foundation/)
+        a privacy-enabled OS from the [e.foundation](https://e.foundation/)
 
 **Here's a glimpse of my projects !**
 
