@@ -13,7 +13,7 @@
 
 - 💥 My name is Mark BEKKER, I am a student willing to become an AI developer
 - 🎫 Currently studying at [@Epitech](https://www.epitech.eu/) I am a member of [@PoCInnovation](https://github.com/PoCInnovation)
-- 💻 I'm learning C, C++, Python, Java and JS
+- 💻 I'm learning C, C++, Python and Java
 - 🔐 Furthermore, I am contributing to the development of the vocal assistant on the E-OS,
         a privacy-enabled OS from the [e.foundation](https://e.foundation/)
 
