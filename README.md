@@ -19,6 +19,8 @@
 
 **Here's a glimpse of my projects !**
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedGinor&repo=Navy&theme=radical&hide_border=false)](https://github.com/RedGinor/Navy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedGinor&repo=Bistromatic&theme=radical&hide_border=false)](https://github.com/RedGinor/Bistrmatic)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedGinor&repo=Libib&theme=radical&hide_border=false)](https://github.com/RedGinor/Libib)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedGinor&repo=Liboli&theme=radical&hide_border=false)](https://github.com/RedGinor/Liboli)
 
